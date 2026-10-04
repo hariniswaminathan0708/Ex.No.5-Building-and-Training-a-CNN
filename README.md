@@ -1,7 +1,7 @@
 # Ex.No.5-Building-and-Training-a-CNN
 ## Building and Training a CNN: Use a framework like TensorFlow or PyTorch to build and train a CNN
 ## Aim :
-To build and train a CNN 
+To build and train a CNN  
 
 ## PROCEDURE
     1.Import the required libraries such as TensorFlow, Keras, NumPy, and Matplotlib for building, training, and visualizing the CNN model.
